@@ -5,7 +5,7 @@ b='cdd';
 let c =('com');
 c='sss';
 let d =('ua');
-d= ='hf';
+d = 'hf';
 let e =(1);
 e=23;
 let i =(10);
@@ -27,19 +27,19 @@ n=true;
 //
 console.log(a,b,c,d,e,i,f,g,h,k,l,m,n );
 
-alert(a);
-alert(b);
-alert(c);
-alert(d);
-alert(e);
-alert(f);
-alert(g);
-alert(h);
-alert(k);
-alert(l);
-alert(m);
-alert(n);
-alert(i);
+// alert(a);
+// alert(b);
+// alert(c);
+// alert(d);
+// alert(e);
+// alert(f);
+// alert(g);
+// alert(h);
+// alert(k);
+// alert(l);
+// alert(m);
+// alert(n);
+// alert(i);
 
 document.write(a);
 document.write(b);
@@ -65,7 +65,7 @@ console.log(person);
 let name = prompt("Имя?");
 let sername = prompt("Отчество?");
 let age = prompt("Твой возраст?");
-console.log('Congratulations', name,sername, 'your age',age );
+document.write('Congratulations', name,sername, 'your age',age );
 
 //В однакових виразах не використовувати однакові оператори!!!
 //5 ? 6 -> true
